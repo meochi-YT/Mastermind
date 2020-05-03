@@ -3,7 +3,7 @@ Repositório do jogo Mastermind
 
 O jogo é inspirado no jogo de tabuleiro chamaod "Mastermind" ou "Super Senha"(não o Mega Senha, eim)
 
-**RECURSOS:
+**RECURSOS:**
 
 - Placar com os 3 melhores jogadores
   - O computador não conta como um jogador, e não tem sua pontuação marcada no placar.
